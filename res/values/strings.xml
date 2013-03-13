@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="refresh">refresh</string>
+    <string name="exit">exit</string>
+    <string name="setting">setting</string>
+    <string name="app_name">IPMSG</string>
+    <string name="send_title">send message</string>
+    <string name="add_file">add file</string>
+    <string name="send">send</string>    
+    <string name="cancel">cancel</string>
+    <string name="browse">browse</string>
+    <string name="select">select</string>
+    <string name="receing">receing</string>
+    <string name="ipmsg_username">username</string>
+    <string name="ipmsg_group">group</string>
+    <string name="ok">ok</string>
+    <string name="ipmsg_host">host</string>
+    <string name="rece_msg">file name： <b>%1$s</b>  <b>%2$s</b></string>
+    <string name="dir_empty_info">this dir is empty %s</string>
+    <string name="file_add">Files have been added</string>
+    <string name="file_only_on">Can only send one file</string>
+    <string name="media_mounted">Please do not load the sdcard, otherwise the program will not can not be used</string>
+	<string-array name="dialog_list_menu">
+           <item>请选择</item>
+        <item>信用卡</item>
+        <item>现金</item>
+        <item>存储</item>
+    </string-array>
+</resources>

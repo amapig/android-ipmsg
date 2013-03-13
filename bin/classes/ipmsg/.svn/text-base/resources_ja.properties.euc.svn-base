@@ -1,0 +1,69 @@
+#
+# Names
+#
+appName=IP Messenger for Java
+nickName=
+senddlgName=送信メッセージ
+recvdlgName=受信メッセージ
+confdlgName=設定
+confirmName=確認
+groupName=無所属
+allName=全て
+#
+# Labels
+#
+sendLabel=送信
+refreshLabel=更新
+configLabel=設定
+exitLabel=終了
+broadcastLabel=同報
+absenceLabel=不在
+toBroadcastLabel=同報通信
+toMulticastLabel=複数送信：
+toUnicastLabel=To:
+secretLabel=封書
+passwdLabel=施錠
+cancelLabel=キャンセル
+msgFromLabel=From:
+replyLabel=返信
+quoteLabel=引用
+closeLabel=閉じる
+openLabel=開く
+inputPasswdLabel=パスワード:
+setnickLabel=ニックネーム:
+setgroupLabel=グループ:
+setabsmsgLabel=不在メッセージ:
+setbroadcastLabel=ブロードキャストアドレス:
+addbuttonLabel=>>
+removebuttonLabel=<<
+setpasswdLabel=パスワード(旧,新,新再):
+setLogFilenameLabel=ログファイル名::
+browseLabel=参照
+okLabel=Ok
+#
+# Strings
+#
+deleteMsg=メッセージは破棄されました。
+readMsg=メッセージは開封されました。
+retryMsg=送信できませんでした。再送しますか？
+cancelMsg=キャンセル？
+#
+# Values
+#
+version=Java版, 1.35.
+ports=2425
+receiveMax=50
+sortKey=guh
+dialupState=false
+resumeState=true
+quoteState=false
+secretState=false
+passwdState=false
+absenceState=false
+broadcastState=false
+quoter=> 
+secretLogFlag=封
+passwdLogFlag=鍵
+multicastLogFlag=多
+broadcastLogFlag=同報
+proxyBroadcastAll=false

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/src/ipmsg
+END
+IPMComEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/ipmsg/IPMComEvent.java
+END
+IPMProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/ipmsg/IPMProxy.java
+END
+IPMEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/ipmsg/IPMEvent.java
+END
+IPMProxyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/ipmsg/IPMProxyEvent.java
+END
+IPMAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/ipmsg/IPMAddress.java
+END
+IPMListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/ipmsg/IPMListener.java
+END
+IPMSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/ipmsg/IPMSend.java
+END
+RecvFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/ipmsg/RecvFile.java
+END
+resources_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/ipmsg/resources_ja.properties
+END
+NormalSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/ipmsg/NormalSend.java
+END
+IPMByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/ipmsg/IPMByteBuffer.java
+END
+IPMRecv.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/ipmsg/IPMRecv.java
+END
+resources_ja.properties.sjis
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/ipmsg/resources_ja.properties.sjis
+END
+resources_ja.properties.euc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/ipmsg/resources_ja.properties.euc
+END
+BroadcastSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/ipmsg/BroadcastSend.java
+END
+IPMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/src/ipmsg/IPMsg.java
+END
+IPMPack.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/ipmsg/IPMPack.java
+END
+resources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/ipmsg/resources.properties
+END

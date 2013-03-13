@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/com.ipmsg"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:orientation="vertical"
+>   
+ <!--  <com.admob.android.ads.AdView     
+          android:id="@+id/ad"    
+          android:visibility="visible"  
+          android:layout_width="fill_parent"    
+          android:layout_height="wrap_content"  
+          android:layout_alignParentBottom="true"  
+          app:backgroundColor="#000000"  
+          app:textColor="#FFFFFF"  
+          app:refreshInterval="50"
+          app:keywords="Android game music video iphone ibm Mobile AccuWeather BluePulse Ford EA MTV Adidas shoe man women lover"  
+        />  -->
+  <TextView 
+    android:id="@+id/mPath"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="5px"
+    android:textSize="18sp"
+    android:textColor="@drawable/black"
+  >
+  </TextView>
+  <ListView 
+    android:id="@android:id/list"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+  >
+  </ListView>
+</LinearLayout>

@@ -1,0 +1,46 @@
+10
+
+dir
+2
+http://android-ipmsg.googlecode.com/svn/trunk/res
+http://android-ipmsg.googlecode.com/svn
+
+
+
+2010-09-15T02:48:59.273850Z
+2
+liuzongan1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+072c5e4c-6e2f-a00f-ee23-165648fe3a07
+
+values-zh-rtw
+dir
+
+layout
+dir
+
+values-zh-rcn
+dir
+
+values
+dir
+
+drawable
+dir
+
+menu
+dir
+

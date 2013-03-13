@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res/com.ipmsg"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical">
+	<!--  <com.admob.android.ads.AdView     
+          android:id="@+id/ad"    
+          android:visibility="visible"  
+          android:layout_width="fill_parent"    
+          android:layout_height="wrap_content"  
+          android:layout_alignParentBottom="true"  
+          app:backgroundColor="#000000"  
+          app:textColor="#FFFFFF"  
+          app:refreshInterval="50"
+          app:keywords="Android game music video iphone ibm Mobile AccuWeather BluePulse Ford EA MTV Adidas shoe man women lover"  
+        />  -->
+	<EditText android:id="@+id/edit" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:singleLine="false"
+		android:editable="true" android:capitalize="sentences"
+		android:fitsSystemWindows="true" android:focusable="true"
+		android:gravity="fill" android:inputType="textCapSentences|textMultiLine|textLongMessage"
+		android:lines="13"></EditText>
+	<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<Button android:text="@string/add_file" android:id="@+id/add_file" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableTop="@drawable/add" android:width="100dip"></Button>
+		<Button android:text="@string/send" android:id="@+id/send" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableTop="@drawable/send" android:width="100dip"></Button>
+		<Button android:text="@string/cancel" android:id="@+id/cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableTop="@drawable/exit" android:width="100dip" android:clickable="true"></Button>
+	</LinearLayout>
+
+
+</LinearLayout>

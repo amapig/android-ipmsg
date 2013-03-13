@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="refresh">刷新</string>
+    <string name="exit">退出</string>
+    <string name="setting">设置</string>
+    <string name="app_name">飞鸽传书</string>
+    <string name="send_title">发送信息对话框</string>
+    <string name="add_file">添加文件</string>
+    <string name="send">发送</string>    
+    <string name="cancel">关闭</string>
+    <string name="browse">浏览</string>
+    <string name="select">选择</string>
+    <string name="ok">确定</string>
+    <string name="receing">正在接收......</string>
+    <string name="ipmsg_username">用户名</string>
+    <string name="ipmsg_group">工作组</string>
+    <string name="ipmsg_host">域名</string>
+    <string name="rece_msg">附件： <b>%1$s</b>  <b>%2$s</b></string>
+    <string name="dir_empty_info">此文件夹是空的%s</string>
+    <string name="file_add">文件已经添加</string>
+    <string name="file_only_on">只能传送一个文件</string>
+    <string name="media_mounted">请不要加载sdcard，否则程序将不无法使用</string>
+</resources>

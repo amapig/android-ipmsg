@@ -1,0 +1,78 @@
+#
+# Names
+#
+appName=IP Messenger for Java
+nickName=
+senddlgName=Send Message
+recvdlgName=Receive Message
+confdlgName=Configuration
+confirmName=Confirm
+groupName=no group
+allName=All
+#
+# Labels
+#
+sendLabel=Send
+refreshLabel=Refresh
+configLabel=Config
+exitLabel=Exit
+sortUserLabel=User
+sortGroupLabel=Group
+sortHostLabel=Host
+broadcastLabel=Broadcast
+absenceLabel=Absence
+toBroadcastLabel=Broadcast
+toMulticastLabel=Multicast to
+toUnicastLabel=To:
+secretLabel=Secret
+passwdLabel=Lock
+cancelLabel=Cancel
+msgFromLabel=From:
+replyLabel=Reply
+quoteLabel=Quote
+closeLabel=Close
+openLabel=Open
+inputPasswdLabel=Password?
+setnickLabel=Nickname:
+setgroupLabel=Group:
+setabsmsgLabel=Message:
+setbroadcastLabel=Broadcast:
+addbuttonLabel=>>
+removebuttonLabel=<<
+setpasswdLabel=Password(O,N,NR):
+setLogFilenameLabel=Log File:
+browseLabel=Browse
+okLabel=Ok
+#
+# Strings
+#
+deleteMsg=Message is deleted.
+readMsg=Message is read.
+retryMsg=Could not send. Retry?
+cancelMsg=Cancel?
+#
+# Values
+#
+version=Java Version, 1.35
+ports=2425
+receiveMax=50
+sortKey=guh
+dialupState=false
+resumeState=true
+quoteState=false
+secretState=false
+passwdState=false
+absenceState=false
+broadcastState=false
+quoter=> 
+secretLogFlag=Sec
+passwdLogFlag=Pas
+multicastLogFlag=Mul
+broadcastLogFlag=Bro
+proxyBroadcastAll=false
+jceProvider=org.bouncycastle.jce.provider.BouncyCastleProvider
+#jceProvider=cryptix.jce.provider.CryptixCrypto
+Cipher1=RSA/ECB/PKCS1Padding
+#Cipher1=RSA/ECB/PKCS#1
+Cipher2=Blowfish/CBC/PKCS5Padding
+Cipher3=RC2/CBC/PKCS5Padding

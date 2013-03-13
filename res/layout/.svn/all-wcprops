@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/res/layout
+END
+file_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/res/layout/file_list.xml
+END
+recv_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/res/layout/recv_activity.xml
+END
+ipmsg_setting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/res/layout/ipmsg_setting.xml
+END
+fuunction_list_item_icon_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/res/layout/fuunction_list_item_icon_text.xml
+END
+alert_rename_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/res/layout/alert_rename_message.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/res/layout/main.xml
+END
+alert_send_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/res/layout/alert_send_message.xml
+END
+file_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/res/layout/file_row.xml
+END
+alert_rece_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/res/layout/alert_rece_message.xml
+END
